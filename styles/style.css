@@ -226,7 +226,7 @@
 
     .hero-new-goat{
         justify-content: center;
-        margin-bottom: 1rem;
+        margin-bottom: -1rem;
     }
 
     .hero-new-goat img{
